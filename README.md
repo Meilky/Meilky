@@ -3,7 +3,7 @@
 Am Meilky and am a little coder
 
 This is all the language I can work with:
- - [JavaScript]
+ - [JavaScript](#JavaScript)
  - HTML
  - CSS
  - [SQL]
