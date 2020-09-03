@@ -6,7 +6,7 @@ This is all the language I can work with:
  - [JavaScript](#JavaScript)
  - HTML
  - CSS
- - [SQL]
+ - [SQL](#SQL)
  
 # JavaScript
 
