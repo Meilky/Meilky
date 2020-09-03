@@ -6,9 +6,16 @@ This is all the language I can work with:
  - [JavaScript]
  - HTML
  - CSS
+ - [SQL]
  
-#JavaScript
+# JavaScript
 
 In JavaScript, I use those framework
 
- - 
+ - Node.js
+ - React.js
+ - Express.js
+ 
+# SQL
+
+Yes, I use SQL as database and I think every body should no it.
