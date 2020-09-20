@@ -11,8 +11,7 @@ This is all the language I can work with:
  
 # JavaScript
 
-In JavaScript, I use those framework
-
+In JavaScript, I use those frameworks:
  - Node.js
  - React.js
  - Express.js
