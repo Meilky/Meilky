@@ -3,6 +3,7 @@
 Am Meilky and I am a little coder
 
 This is all the language I can work with:
+ - TypeScript (Curently learning it)
  - [JavaScript](#JavaScript)
  - HTML
  - CSS
@@ -18,4 +19,4 @@ In JavaScript, I use those framework
  
 # SQL
 
-Yes, I use SQL as database and I think every body should no it.
+Yes, I use SQL as database and I think every body should know it.
