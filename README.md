@@ -1,4 +1,4 @@
-[![build-status](https://github.com/Meilky/simage/workflows/build/badge.svg?branch=master)](https://github.com/backslash-f/simage/actions)
+[![build-status](https://github.com/Meilky/Meilky?branch=master)](https://github.com/Meilky/Meilky?branch=master)
 ### Hi there
 
 Am Meilky and I am a little coder
