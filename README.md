@@ -1,3 +1,4 @@
+[![build-status](https://github.com/backslash-f/simage/workflows/build/badge.svg?branch=master)](https://github.com/backslash-f/simage/actions)
 ### Hi there
 
 Am Meilky and I am a little coder
