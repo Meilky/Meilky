@@ -1,4 +1,3 @@
-[![commits](https://github.com/Meilky/Meilky?branch=master)](https://github.com/Meilky/Meilky?branch=master)
 ### Hi there
 
 Am Meilky and I am a little coder
