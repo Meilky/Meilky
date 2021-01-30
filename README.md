@@ -4,7 +4,7 @@ Hi,
 My name is Meilky add I realy love coding and build project with my friends.
 
 My favorite stack of the moment is :
- - [ts logo](/assets/tsLogo/tsLogo.html)TypeScript
+ - ![ts logo](https://github.com/Meilky/Meilky/assets/tsLogo/tsLogo.html)TypeScript
  - Node.js
  - Express.js
  - React.js
