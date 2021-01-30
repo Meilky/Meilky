@@ -1,21 +1,14 @@
-### Hi there
+# Hello world!
 
-Am Meilky and I am a little coder
+Hi,
+My name is Meilky add I realy love coding and build project with my friends.
 
-This is all the language I can work with:
- - TypeScript (Curently learning it)
- - [JavaScript](#JavaScript)
- - HTML
- - CSS
- - [SQL](#SQL)
- 
-# JavaScript
-
-In JavaScript, I use those frameworks:
+My favorite stack of the moment is :
+ - TypeScript
  - Node.js
- - React.js
  - Express.js
- 
-# SQL
+ - React.js
+ - SQL
 
-Yes, I use SQL as database and I think every body should know it.
+## Here's my stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meilky&show_icons=true&theme=onedark)
