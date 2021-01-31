@@ -16,7 +16,7 @@ My favorite stack of the moment is :
  - <img src="assets/tsLogo.png" width="20" /> [TypeScript](https://github.com/Microsoft/TypeScript)
  - <img src="assets/nodeLogo.png" width="20" /> [Node.js](https://github.com/nodejs/node)
  - <img src="assets/reactLogo.png" width="20" /> [React.js](https://github.com/facebook/react)
- - <img src="assets/sqlLogo.png" width="20" /> [SQL](https://github.com/MariaDB/server)
+ - <img src="assets/mariaLogo.png" width="20" /> [MariaDB](https://github.com/MariaDB/server) (SQL)
 
 As server operating system, I use [Debian](https://wiki.debian.org/) long term support.
 
